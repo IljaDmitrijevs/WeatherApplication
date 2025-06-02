@@ -1,0 +1,10 @@
+bin/
+obj/
+.vscode/
+.env
+node_modules/
+*.user
+*.db
+.env.*
+.vs
+/WeatherAPI/WeatherAPI.Tests/TestResults/   

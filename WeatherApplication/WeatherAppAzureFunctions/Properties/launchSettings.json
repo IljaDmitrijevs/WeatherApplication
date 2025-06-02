@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WeatherAppAzureFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7212",
+      "launchBrowser": false
+    }
+  }
+}
